@@ -14,7 +14,7 @@ npm i discord.js --save
 
 ## Usage
 
-Go to the [Discord Applications](https://discord.com/developers/applications) page and click New Application.
+Go to the [Discord Applications](https://discord.com/developers/applications) page and click New Application.\n
 Enter the display name for the bot for your server.
 Go to bot on the left hand side of the screen.
 Click Add Bot.
