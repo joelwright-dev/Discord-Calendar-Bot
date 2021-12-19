@@ -152,4 +152,4 @@ client.on('message', message => {
     client.commands.get(command).execute(message, args)
 });
 
-client.login('OTIxODc2MDEwODcyNTAwMzQ1.Yb5R8A.dyp5SYNCkKhNCTNhTtIlpumjO9I');
+client.login('TOKEN');
